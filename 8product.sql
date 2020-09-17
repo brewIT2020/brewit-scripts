@@ -1,0 +1,15 @@
+insert into brews.product values 
+	('055397e0-fd00-4b05-9fbd-70e7ee3d5bc6','false','Shou Mei','7121cdb4-c6ee-4efe-95cc-1221b26006ab','2438e721-cc64-4394-92e0-ced907cec3e2'),
+	('8ec62282-3050-45cb-9a67-9076441ca4b7','false','Pu-Erh z kwiatami','7121cdb4-c6ee-4efe-95cc-1221b26006ab','28956956-6476-47ff-8383-7d482eb834ae'),
+	('739caff7-3e58-42cc-a436-5594a7563343','false','Cytrusowa','92f4956e-8813-4d2e-a0d2-954c9bd542f9','0e19b3e7-7f3a-490f-9e04-ddcda6c0713f'),
+	('9043a08f-8e2a-4844-bcd0-34729248523a','false','Bananowo-Wiśniowa','92f4956e-8813-4d2e-a0d2-954c9bd542f9','0e19b3e7-7f3a-490f-9e04-ddcda6c0713f'),
+	('2bae0d31-dbec-4dfd-9a78-062e00c9ef82','false','Bora- Bora','92f4956e-8813-4d2e-a0d2-954c9bd542f9','0e19b3e7-7f3a-490f-9e04-ddcda6c0713f'),
+	('bc4b7ba7-f25f-4d58-9e65-6fe8133b98b8','false','Cynamonowo-jabłkowa','92f4956e-8813-4d2e-a0d2-954c9bd542f9','0e19b3e7-7f3a-490f-9e04-ddcda6c0713f'),
+	('a5465563-7bb0-4851-8a03-8c81fbc80831','false','Pu-Erh TUO-CHA mini prasowany','7121cdb4-c6ee-4efe-95cc-1221b26006ab','28956956-6476-47ff-8383-7d482eb834ae'),
+	('64d65c29-dd27-42a5-a60c-da2812ed60e2','false','KAKTUSOWA z Miętą', '7121cdb4-c6ee-4efe-95cc-1221b26006ab','cf465d76-204b-44ae-ae8c-30e1865e7b97'),
+	('0901771b-342a-4007-84f8-f8be8914d54f','false','Amelia he-rb. owoc. bez hibiskusa', '92f4956e-8813-4d2e-a0d2-954c9bd542f9','0e19b3e7-7f3a-490f-9e04-ddcda6c0713f'),
+	('ddb9622b-f83c-4879-b2d0-1e81db98383a','false','Yellow Huang Xiao Tea','7121cdb4-c6ee-4efe-95cc-1221b26006ab','e3aae27c-b33b-45ff-9c9f-fc72d6cf4edb'),
+	('dbbf889f-3780-41d6-a568-80b659cc5389','false','Rooibos zielony Śmietankowy Karmel','d7bf0e3d-68b0-4480-9906-1ed1b5e657e8','2ba04d41-2c82-4105-b91e-80a887384229'),
+	('cda7da09-dfe5-4291-833c-ab8c362f4378','false','Miód i Malina','92f4956e-8813-4d2e-a0d2-954c9bd542f9','0e19b3e7-7f3a-490f-9e04-ddcda6c0713f'),
+	('2312abd3-3eab-4f0f-82bf-65202a2cdb72','false','Morelowe Trufle','7121cdb4-c6ee-4efe-95cc-1221b26006ab','5bc3852b-b6a0-45a1-a09d-83707f95372e'),
+	('c3cf4e88-367b-48a9-9729-edd26f414fd7','false','Chun Mee','7121cdb4-c6ee-4efe-95cc-1221b26006ab','cf465d76-204b-44ae-ae8c-30e1865e7b97');

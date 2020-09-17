@@ -1,0 +1,15 @@
+insert into brews.ranking values 
+	('083607a8-79f3-4e58-9f61-dcddb5f43c99','bardzo delikatna w smaku, ma kopa',2,'be9e0706-2e43-47e2-8682-6a082fe23081'),
+	('b554e049-2668-4504-9029-7cf040e2c30a','Delikatna, aromatyczna, z nutami kwiatowymi',4.5,'943380bf-8024-48a7-b53f-7ec48cff71a6'),
+	('c858a9a2-3705-462a-a569-4a941d48ea8e','brak smaku herbaty, wyraźne cytrusy, jak piwo',3,'90c1bf1c-8caf-450e-80f3-dbd91d0adfa6'),
+	('54bfe6d9-e92d-4022-a3a2-e2f1522d01f9','Z wyglądu napar przypomina barszcz, jest ciemnej, granatowej barwy, a po powierzchni pływają tłuste oczka, zastanawiające. W aromacie dominuje banan, jest intensywny, wypełnia całe pomieszczenie. W smaku słodka, wiśniowa z nuta hibiskusa, banan skryty na drugim planie, pojawia się po pewnym czasie. Ocena 🐥🐥🐥🐣 z uwagi na oczka.. +0,5 można potem zjeść pyszne wiśnie',4,'2aad7505-59ca-442e-8c1d-352a0d2fd3b1'),
+	('46e31d0d-52b3-4f69-b7ff-85c6c61391ed','bardzo słodka, nieokreślony owocowy smak',4.5,'bb3761cb-b304-4025-8162-2dc3fe5fdaa3'),
+	('ca8c7058-2972-41ea-91e7-c1559f3c6ab9','smakuje i pachnie Bożym Narodzeniem',4,'e4bc31e5-7e7c-4655-93ab-bce832c63d34'),
+	('ea57e753-ba82-4f18-a967-dcf5feab754c','jakoś nic wyjątkowego',3,'420dcb65-dd86-4589-bb1e-9e4165b976e4'),
+	('ab9a253c-bda3-4c99-b058-4696d99d2cde','dominuje smak zielonej herbaty, z dodatkiem egzotycznego, cytrusowego',4.5,'f1a1770c-2816-4943-959b-e488c2232845'),
+	('8b25da3e-02cb-4359-b96d-2085c0c38ff9','smak pudrowy, kwaśny posmak',1,'f258923b-29be-4575-ae28-318d9a456453'),
+	('8741215e-385b-4bad-933e-9a74355971c6','smak kominka, papierosów, jeśli krócej parzona, to aromat do zniesienIa',1,'16811665-15fc-4700-a6da-047ccc5b9d99'),
+	('6ce32018-3f75-4118-a439-ff987941d498','łagodny rooibos, bez smaku krzaka',3,'41e927a9-43f8-4158-8563-ad1e00dd8440'),
+	('42ae507a-d79c-4d52-8cdb-907b5b4747d0','pięknie wonia',3.5,'e46317f1-2f65-422f-813c-bdc1858cf850'),
+	('9607bf0f-b053-482b-9557-9a9ddd85dd4b','ładny aromat, ciekawe nuty smakowe',3.5,'53f43fa9-b3c1-4600-a531-b035ab128eb5'),
+	('4154fbdf-80ff-4507-92be-a6b57990fc19','nieco słodsza i mniej intensywna zielona. Krótko parzyć, można wielokrotnie.',3,'d4b47fdd-7a74-4638-a074-fa1fc3e99961');

@@ -1,0 +1,18 @@
+insert into dictionaries.product_types values 
+	('e3aae27c-b33b-45ff-9c9f-fc72d6cf4edb','Herbata żółta'),
+	('5bc3852b-b6a0-45a1-a09d-83707f95372e','Herbata czarna'),
+	('405bd70b-b766-49c6-a4b5-c2602fa66a90','Herbata ziołowa'),
+	('cf465d76-204b-44ae-ae8c-30e1865e7b97','Herbata zielona'),
+	('0e19b3e7-7f3a-490f-9e04-ddcda6c0713f','Herbata owocowa'),
+	('f1ec7e31-d120-494d-889d-5cca0abd6ee2','Herbata mieszana'),
+	('a7087b28-9279-4b6d-a0f0-a248274b878d','Matcha'),
+	('60f06139-91f7-41c2-a54c-fe9493f523c2','Chai'),
+	('2438e721-cc64-4394-92e0-ced907cec3e2','Herbata biała'),
+	('28956956-6476-47ff-8383-7d482eb834ae','Herbata czerwona'),
+	('2ba04d41-2c82-4105-b91e-80a887384229','Rooibos'),
+	('dbac95e2-e4ce-40b8-bd08-9eb7c2d3118a','Herbata oolong'),
+	('152cd4c9-3d82-4fa0-b95a-e474907a2449','Napoje herbaciane'),
+	('f6dc0d6a-676d-47ab-b745-37169db0ac45','Pozostałe'),
+	('ea2ef1e7-5a61-43f6-a247-40dcaae20247','kawa'),
+	('a50942e7-bb73-4247-b1b6-c10de85df0df','yerba mate'),
+	('55fee344-bf9f-487e-9512-20deeefdda65','herbata');
